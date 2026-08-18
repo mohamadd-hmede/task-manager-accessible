@@ -1,4 +1,4 @@
-# Task Manager – Accessibility Pass
+# Task Manager (V4) – Accessibility Pass
 
 ## Overview
 
@@ -48,7 +48,3 @@ Accessible UI
 npm install
 npm run dev
 ```
-
-## Github Repository
-
-https://github.com/mohamadd-hmede/task-manager-accessible.git
