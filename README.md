@@ -48,3 +48,9 @@ Accessible UI
 npm install
 npm run dev
 ```
+---
+
+## 📄 License
+
+This was developed for educational and internship purposes.
+
